@@ -1,4 +1,4 @@
-![App Icon](assets/icon.png)
+![App Icon](docs/icon.png)
 
 # Karamel Workspace Manager
 
