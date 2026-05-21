@@ -1,6 +1,8 @@
 
 
-![App Icon](docs/screenshots/icon.png) # Karamel Workspace Manager
+![App Icon](docs/screenshots/icon.png) 
+
+# Karamel Workspace Manager
 
 
 ![Version](https://img.shields.io/badge/version-0.9.4--beta-orange)
