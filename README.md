@@ -1,11 +1,10 @@
 
 
-# Karamel Workspace Manager
+![App Icon](assets/icon.png) # Karamel Workspace Manager
 
 
 ![Version](https://img.shields.io/badge/version-0.9.4--beta-orange)
 
-docs/icon.png
 
 Karamel Workspace Manager is a professional-grade Windows utility designed to streamline multi-tasking by managing virtual desktops, tiling windows, and tracking application activity across your workspace.
 
