@@ -36,6 +36,12 @@ Karamel Workspace Manager is a professional-grade Windows utility designed to st
 
 ---
 
+## Video Showcase
+
+![Karamel Workspace Manager Demo](docs/screenshots/demo.mp4)
+
+---
+
 ## Installation
 
 Karamel Workspace Manager is distributed as a single executable installer. 
