@@ -39,7 +39,7 @@ Karamel Workspace Manager is a professional-grade Windows utility designed to st
 ## Video Showcase
 
 <div align="center">
-  <video width="100%" height="auto" style="max-height: 500px;" controls>
+  <video width="100%" height="500" controls>
     <source src="docs/screenshots/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
