@@ -42,8 +42,10 @@ Karamel Workspace Manager is a professional-grade Windows utility designed to st
   <a href="https://github.com/uygaryuzsuren/karamel-ws-manager/blob/master/docs/screenshots/demo.mp4">
     <img src="docs/screenshots/main_ui.png" alt="Watch Karamel Workspace Manager Demo" width="100%" style="border-radius: 10px; border: 1px solid #333;">
     <br>
-    <b>▶ Click to Watch the Demo Video</b>
+    <br>
+    <kbd><b>▶ Click to Watch the Demo Video</b></kbd>
   </a>
+  <p><i>Experience Karamel Workspace Manager in action, featuring smart tiling and fluid workspace transitions.</i></p>
 </div>
 
 ---
